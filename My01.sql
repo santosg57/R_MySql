@@ -1,0 +1,3 @@
+USE Libros_UNAM;
+SHOW TABLES;
+SELECT * FROM libros;

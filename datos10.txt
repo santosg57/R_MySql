@@ -1,0 +1,10 @@
+103, Cálculo2 : concepción dinámica, María Isabel Flores Reyes, 1982-12-31, matematicas, f002
+104, Cálculo3 : concepción dinámica, María Isabel Flores Reyes, 1982-12-31, matematicas, f003
+105, Cálculo4 : concepción dinámica, María Isabel Flores Reyes, 1982-12-31, matematicas, f004
+106, Cálculo5 : concepción dinámica, María Isabel Flores Reyes, 1982-12-31, matematicas, f005
+107, Cálculo6 : concepción dinámica, María Isabel Flores Reyes, 1982-12-31, matematicas, f006
+108, Cálculo7 : concepción dinámica, María Isabel Flores Reyes, 1982-12-31, matematicas, f007
+109, Cálculo8 : concepción dinámica, María Isabel Flores Reyes, 1982-12-31, matematicas, f008
+110, Cálculo9 : concepción dinámica, María Isabel Flores Reyes, 1982-12-31, matematicas, f009
+111, Cálculo10 : concepción dinámica, María Isabel Flores Reyes, 1982-12-31, matematicas, f010
+112, Cálculo11 : concepción dinámica, María Isabel Flores Reyes, 1982-12-31, matematicas, f011
